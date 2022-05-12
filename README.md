@@ -1,5 +1,9 @@
 # control_animations_with_text
 
+
+https://user-images.githubusercontent.com/86212446/168184989-955fa9d9-c004-4b87-8546-65cc91d93cc1.mp4
+
+
 A new Flutter project.
 
 ## Getting Started
